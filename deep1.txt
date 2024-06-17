@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6C06-3C3B
+
+ Directory of C:\Users\DEEPA SHETTY\Desktop\ProjectFolder
+
+17-06-2024  15:41    <DIR>          .
+17-06-2024  15:39    <DIR>          ..
+17-06-2024  15:41                 0 deep1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  43,864,072,192 bytes free
